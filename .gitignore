@@ -1,0 +1,5 @@
+.DS_Store
+*.plist
+*.strings
+*.icns
+gerNew2.bundle/Contents/Resources/gerNew copy.keylayout
